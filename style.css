@@ -1,0 +1,57 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: wheat;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    word-spacing: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+figure {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+#my {
+    text-align: center;
+    word-spacing: 5px;
+}
+
+.you {
+    border-color: black;
+    border-width: 2px;
+}
+
+h4 {
+    text-align: center;
+    color: purple;
+    font-size: 22px;
+}
+
+summary {
+    font-weight: bold;
+}
