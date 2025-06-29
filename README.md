@@ -32,7 +32,7 @@ dog-breeds/<br>
 
 You can open `index.html` in your browser to view the webpage locally.<br>
 
-![Preview](preview.png) <!-- Optional: add a screenshot of your page named preview.png -->
+<b>Preview</b> https://dog-xzp3.onrender.com <br>
 
 🙋‍♂️ Author<br>
 Harsh Mishra<br>
